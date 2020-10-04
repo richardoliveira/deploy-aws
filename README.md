@@ -1,4 +1,4 @@
-## POC PARA AUTOMATIZAÇÃO DE DEPLOY AWS EC2
+## POC PARA AUTOMATIZAÇÃO DE DEPLOY AWS EC2 (NodeJS + Traefik)
 
 - Instalar aws-cli
 ```shell
