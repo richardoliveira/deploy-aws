@@ -14,7 +14,7 @@
 ```shell
   $ aws configure 
 ```
-  *** Necessário informar AWS Access KEY, AWS Secret Key e a região que a instancia irá usar como padrão**
+  **Necessário informar AWS Access KEY, AWS Secret Key e a região que a instancia irá usar como padrão**
 
 - Criar uma instancia EC2 via terminal
 ```shell
